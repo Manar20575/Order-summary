@@ -2,6 +2,7 @@
 project in html + css
 Get colors, fonts etc from the style-guide.md file
 Read the README.md file and have a look around the project
+Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
